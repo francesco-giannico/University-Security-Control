@@ -1,5 +1,8 @@
 # University-Security-Control
+This repo contains the project's contents (code + documentation) which I delivered for the Database System exam.
+I have taken this exam in February 02, 2018 at the University of Bari "Aldo Moro".
 
+Duration: November, 2017 - January, 2018 (3 months)
 
 # Table of contents
  * [Introduction](#introduction)
