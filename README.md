@@ -7,6 +7,8 @@ Duration: November, 2017 - January, 2018 (3 months)
 
 # Table of contents
  * [Introduction](#introduction)
+ * [Requirements](#requirements)
+ * [EER](#eer)
  * [Running](#running)
 
 ## Introduction
@@ -15,7 +17,7 @@ Duration: November, 2017 - January, 2018 (3 months)
 ## Requirements
 ![requirements](images/requirements.png)
 
-## Enhanced entity-relationship diagram (EER)
+## EER
 ![eer](images/final_schema.png)
 
 ## Running
