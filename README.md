@@ -14,6 +14,10 @@ Duration: November, 2017 - January, 2018 (3 months)
 
 ## Requirements
 ![requirements](images/requirements.png)
+
+## Enhanced entity-relationship diagram (EER)
+![eer](images/eer.png)
+
 ## Running
 Import sql file into oracle developer and run it into a your schema.
 
