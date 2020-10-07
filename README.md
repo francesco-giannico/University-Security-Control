@@ -7,15 +7,16 @@ Duration: November, 2017 - January, 2018 (3 months)
 
 # Table of contents
  * [Introduction](#introduction)
- * [Requirements](#requirements)
+ * [Specifications](#specifications)
  * [EER](#eer)
  * [Running](#running)
+ * [Technologies](#technologies)
 
 ## Introduction
 
 
-## Requirements
-![requirements](images/requirements.png)
+## Specifications
+![specifications](images/requirements.png)
 
 ## EER
 ![eer](images/final_schema.png)
@@ -28,6 +29,7 @@ Note: it will take about 10 minutes to populate.
 
 import the project and change the credential in the class DAO.
 
+## Technologies
 
 ## Author
 **Francesco Giannico**, M.S. in Computer Science, specialized in Knowledge Engineering and Machine intelligence (LM-18)
