@@ -1,5 +1,6 @@
 # University-Security-Control
-This repo contains the project's contents (code + documentation) devivered for an exam named **Database System** which I attended during my M.S. in Computer science (LM-18),  at the University of Bari "Aldo Moro".
+This repo contains the project's contents (code + documentation) devivered for an exam named **Database System**.
+I attended this exam during my M.S. in Computer science (LM-18),  at the University of Bari "Aldo Moro".
 I took the exam on **the second of February 2018**.
 
 Duration: November, 2017 - January, 2018 (3 months)
